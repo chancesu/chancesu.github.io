@@ -8,7 +8,7 @@
       "component": "/Users/st/workspace/chancesu/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1545287393201,
+      "updatedAt": 1545288223486,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/Users/st/workspace/chancesu/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cc39e2c8601faaa57a5915a118478073",
+        "contentDigest": "eb7236e6219e1741c2a6074cd6a5a897",
         "owner": "internal-data-bridge"
       }
     },
@@ -1864,12 +1864,12 @@
       "host": "localhost",
       "pathPrefix": "/gatsby-starter-casper",
       "polyfill": true,
-      "buildTime": "2018-12-20T06:29:49.394Z",
+      "buildTime": "2018-12-20T06:43:39.058Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7deb0c8820ce656316f8c68f0a37e858",
+        "contentDigest": "0d5371caf862407a1bc55e57cce69ac6",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1879,7 +1879,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3871924ebd64d9b65b32d834b0e2c2d9",
+        "contentDigest": "2ee88c72108023a72cf20a17266cb064",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1890,7 +1890,7 @@
       "size": 340,
       "prettySize": "340 B",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T06:29:52.000Z",
+      "accessTime": "2018-12-20T06:43:42.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -1908,11 +1908,11 @@
       "blksize": 4096,
       "ino": 4787341,
       "blocks": 0,
-      "atimeMs": 1545287392000,
+      "atimeMs": 1545288222000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T06:29:52.000Z",
+      "atime": "2018-12-20T06:43:42.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -1922,7 +1922,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f7d0c68fb1b470b0d165c4a6eacb0e74",
+        "contentDigest": "12559a35d5dbdb9269539a47e807bdf6",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1933,7 +1933,7 @@
       "size": 102,
       "prettySize": "102 B",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T06:29:52.000Z",
+      "accessTime": "2018-12-20T06:43:42.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -1951,11 +1951,11 @@
       "blksize": 4096,
       "ino": 4787342,
       "blocks": 0,
-      "atimeMs": 1545287392000,
+      "atimeMs": 1545288222000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T06:29:52.000Z",
+      "atime": "2018-12-20T06:43:42.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -1965,7 +1965,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7c4d8c9508fb8a4f0fd61da6801eae20",
+        "contentDigest": "c195423ba40628bc644244e60c823bda",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1976,7 +1976,7 @@
       "size": 102,
       "prettySize": "102 B",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T06:29:52.000Z",
+      "accessTime": "2018-12-20T06:43:42.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -1994,11 +1994,11 @@
       "blksize": 4096,
       "ino": 4787344,
       "blocks": 0,
-      "atimeMs": 1545287392000,
+      "atimeMs": 1545288222000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T06:29:52.000Z",
+      "atime": "2018-12-20T06:43:42.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -2008,7 +2008,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ba3a58c07da9340f3d416aca378c3d87",
+        "contentDigest": "44be095b35838483460490d85f9f6b28",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2019,7 +2019,7 @@
       "size": 102,
       "prettySize": "102 B",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T06:29:52.000Z",
+      "accessTime": "2018-12-20T06:43:42.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -2037,11 +2037,11 @@
       "blksize": 4096,
       "ino": 4787346,
       "blocks": 0,
-      "atimeMs": 1545287392000,
+      "atimeMs": 1545288222000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T06:29:52.000Z",
+      "atime": "2018-12-20T06:43:42.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -2051,7 +2051,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b593e6da571c7e48415cb191c89c882c",
+        "contentDigest": "5c2b56ee1534541eb3085e7b8bfe8e50",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2062,7 +2062,7 @@
       "size": 102,
       "prettySize": "102 B",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T06:29:52.000Z",
+      "accessTime": "2018-12-20T06:43:42.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -2080,11 +2080,11 @@
       "blksize": 4096,
       "ino": 4787348,
       "blocks": 0,
-      "atimeMs": 1545287392000,
+      "atimeMs": 1545288222000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T06:29:52.000Z",
+      "atime": "2018-12-20T06:43:42.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -2094,7 +2094,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7e3cabbcef89d98c9af969c6035811f7",
+        "contentDigest": "bfcfb008f6328265d667126965a1b7fd",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2105,7 +2105,7 @@
       "size": 102,
       "prettySize": "102 B",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T06:29:52.000Z",
+      "accessTime": "2018-12-20T06:43:42.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -2123,11 +2123,11 @@
       "blksize": 4096,
       "ino": 4787350,
       "blocks": 0,
-      "atimeMs": 1545287392000,
+      "atimeMs": 1545288222000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T06:29:52.000Z",
+      "atime": "2018-12-20T06:43:42.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -2137,7 +2137,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "36ff39938b5bfe4a537ae05c8e2f6d24",
+        "contentDigest": "08f6682f8ac922b4418774321d89d9e6",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2148,7 +2148,7 @@
       "size": 102,
       "prettySize": "102 B",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T06:29:52.000Z",
+      "accessTime": "2018-12-20T06:43:42.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -2166,11 +2166,11 @@
       "blksize": 4096,
       "ino": 4787352,
       "blocks": 0,
-      "atimeMs": 1545287392000,
+      "atimeMs": 1545288222000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T06:29:52.000Z",
+      "atime": "2018-12-20T06:43:42.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -2180,7 +2180,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f36d085d3f58b2420787df59d9b0e999",
+        "contentDigest": "975752062108bce384eb2779382a7bc8",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2191,7 +2191,7 @@
       "size": 102,
       "prettySize": "102 B",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T06:29:52.000Z",
+      "accessTime": "2018-12-20T06:43:42.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -2209,11 +2209,11 @@
       "blksize": 4096,
       "ino": 4787354,
       "blocks": 0,
-      "atimeMs": 1545287392000,
+      "atimeMs": 1545288222000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T06:29:52.000Z",
+      "atime": "2018-12-20T06:43:42.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -2223,7 +2223,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "fe0dab9220599abd73375e84d702df56",
+        "contentDigest": "d76b6a95092670eb51b9a2e15224f8a4",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2234,7 +2234,7 @@
       "size": 102,
       "prettySize": "102 B",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T06:29:52.000Z",
+      "accessTime": "2018-12-20T06:43:42.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -2252,11 +2252,11 @@
       "blksize": 4096,
       "ino": 4787356,
       "blocks": 0,
-      "atimeMs": 1545287392000,
+      "atimeMs": 1545288222000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T06:29:52.000Z",
+      "atime": "2018-12-20T06:43:42.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -2280,7 +2280,7 @@
       "size": 2656,
       "prettySize": "2.66 kB",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T06:27:53.000Z",
+      "accessTime": "2018-12-20T06:30:40.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -2298,11 +2298,11 @@
       "blksize": 4096,
       "ino": 4787343,
       "blocks": 8,
-      "atimeMs": 1545287273000,
+      "atimeMs": 1545287440000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T06:27:53.000Z",
+      "atime": "2018-12-20T06:30:40.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -2326,7 +2326,7 @@
       "size": 3109,
       "prettySize": "3.11 kB",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T06:27:53.000Z",
+      "accessTime": "2018-12-20T06:30:40.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -2344,57 +2344,11 @@
       "blksize": 4096,
       "ino": 4787345,
       "blocks": 8,
-      "atimeMs": 1545287273000,
+      "atimeMs": 1545287440000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T06:27:53.000Z",
-      "mtime": "2018-12-20T06:12:42.000Z",
-      "ctime": "2018-12-20T06:27:53.000Z",
-      "birthtime": "2018-12-20T06:12:42.000Z"
-    },
-    "/Users/st/workspace/chancesu/content/sample-posts/2017-01-03/index.md absPath of file": {
-      "id": "/Users/st/workspace/chancesu/content/sample-posts/2017-01-03/index.md absPath of file",
-      "children": [
-        "/Users/st/workspace/chancesu/content/sample-posts/2017-01-03/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "10ef518e9c212aece5d8b16a243934ee",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "/Users/st/workspace/chancesu/content/sample-posts/2017-01-03/index.md",
-      "relativePath": "2017-01-03/index.md",
-      "extension": "md",
-      "size": 2806,
-      "prettySize": "2.81 kB",
-      "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T06:27:53.000Z",
-      "changeTime": "2018-12-20T06:27:53.000Z",
-      "birthTime": "2018-12-20T06:12:42.000Z",
-      "root": "/",
-      "dir": "/Users/st/workspace/chancesu/content/sample-posts/2017-01-03",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "2017-01-03",
-      "dev": 16777224,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 4787347,
-      "blocks": 8,
-      "atimeMs": 1545287273000,
-      "mtimeMs": 1545286362000,
-      "ctimeMs": 1545287273000,
-      "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T06:27:53.000Z",
+      "atime": "2018-12-20T06:30:40.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -2418,7 +2372,7 @@
       "size": 2421,
       "prettySize": "2.42 kB",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T06:27:53.000Z",
+      "accessTime": "2018-12-20T06:30:40.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -2436,11 +2390,57 @@
       "blksize": 4096,
       "ino": 4787349,
       "blocks": 8,
-      "atimeMs": 1545287273000,
+      "atimeMs": 1545287440000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T06:27:53.000Z",
+      "atime": "2018-12-20T06:30:40.000Z",
+      "mtime": "2018-12-20T06:12:42.000Z",
+      "ctime": "2018-12-20T06:27:53.000Z",
+      "birthtime": "2018-12-20T06:12:42.000Z"
+    },
+    "/Users/st/workspace/chancesu/content/sample-posts/2017-01-03/index.md absPath of file": {
+      "id": "/Users/st/workspace/chancesu/content/sample-posts/2017-01-03/index.md absPath of file",
+      "children": [
+        "/Users/st/workspace/chancesu/content/sample-posts/2017-01-03/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "10ef518e9c212aece5d8b16a243934ee",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/st/workspace/chancesu/content/sample-posts/2017-01-03/index.md",
+      "relativePath": "2017-01-03/index.md",
+      "extension": "md",
+      "size": 2806,
+      "prettySize": "2.81 kB",
+      "modifiedTime": "2018-12-20T06:12:42.000Z",
+      "accessTime": "2018-12-20T06:30:40.000Z",
+      "changeTime": "2018-12-20T06:27:53.000Z",
+      "birthTime": "2018-12-20T06:12:42.000Z",
+      "root": "/",
+      "dir": "/Users/st/workspace/chancesu/content/sample-posts/2017-01-03",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "2017-01-03",
+      "dev": 16777224,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4787347,
+      "blocks": 8,
+      "atimeMs": 1545287440000,
+      "mtimeMs": 1545286362000,
+      "ctimeMs": 1545287273000,
+      "birthtimeMs": 1545286362000,
+      "atime": "2018-12-20T06:30:40.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -2464,7 +2464,7 @@
       "size": 2312,
       "prettySize": "2.31 kB",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T06:27:53.000Z",
+      "accessTime": "2018-12-20T06:30:40.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -2482,11 +2482,11 @@
       "blksize": 4096,
       "ino": 4787351,
       "blocks": 8,
-      "atimeMs": 1545287273000,
+      "atimeMs": 1545287440000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T06:27:53.000Z",
+      "atime": "2018-12-20T06:30:40.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -2510,7 +2510,7 @@
       "size": 2360,
       "prettySize": "2.36 kB",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T06:27:53.000Z",
+      "accessTime": "2018-12-20T06:30:40.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -2528,11 +2528,11 @@
       "blksize": 4096,
       "ino": 4787353,
       "blocks": 8,
-      "atimeMs": 1545287273000,
+      "atimeMs": 1545287440000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T06:27:53.000Z",
+      "atime": "2018-12-20T06:30:40.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -2556,7 +2556,7 @@
       "size": 2380,
       "prettySize": "2.38 kB",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T06:27:53.000Z",
+      "accessTime": "2018-12-20T06:30:40.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -2574,11 +2574,11 @@
       "blksize": 4096,
       "ino": 4787355,
       "blocks": 8,
-      "atimeMs": 1545287273000,
+      "atimeMs": 1545287440000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T06:27:53.000Z",
+      "atime": "2018-12-20T06:30:40.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -2602,7 +2602,7 @@
       "size": 10742,
       "prettySize": "10.7 kB",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T06:27:53.000Z",
+      "accessTime": "2018-12-20T06:30:40.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -2620,11 +2620,11 @@
       "blksize": 4096,
       "ino": 4787357,
       "blocks": 24,
-      "atimeMs": 1545287273000,
+      "atimeMs": 1545287440000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T06:27:53.000Z",
+      "atime": "2018-12-20T06:30:40.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -2659,36 +2659,6 @@
       "fileAbsolutePath": "/Users/st/workspace/chancesu/content/sample-posts/2017-01-01/index.md",
       "fields": {
         "slug": "/bold-mage"
-      }
-    },
-    "/Users/st/workspace/chancesu/content/sample-posts/2017-01-03/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/st/workspace/chancesu/content/sample-posts/2017-01-03/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/st/workspace/chancesu/content/sample-posts/2017-01-03/index.md absPath of file",
-      "internal": {
-        "content": "---\ntitle: \"Angels of Mist\"\ncover: \"https://unsplash.it/1280/900/?random?AngelsofMist\"\ncategory: \"test3\"\ndate: \"2017-01-03\"\ntags:\n    - cheese\n    - other\n---\n# Ab dicemur cura\n\n## Mane oscula anxia\n\nLorem markdownum alius, **non voluntas supremaque**: canes ager cingere quis;\nrerum? Nunc nec ferunt verbis vultumque candentia sequi visa Phrygii *zonarumque\ncerno*. Creatos plangente voluptas est nomen opes: nequeo ullus; accipiunt\nmollibus carmen. [Contigerant](http://esse-sertis.net/) haec Antium latebris\nmanus quamquam Erigdupum virgultis debes. Leones sanguine frondes cepit animi\nexcipit sed ponderis carpitur arbor pomi infamia.\n\n```js\n    subdirectory.video_backlink_jquery = plug_d.upSku.nuiMini(spyware);\n    property = hard + tracerouteNetCrop(multi, xp_byte, software_wheel_readme);\n    if (username.prebinding(kbps)) {\n        fifo_expansion_ppga += io_memory_fi(analyst_copyright(protocolZifPpc,\n                -3));\n        website += webRibbon;\n    }\n    if (httpsArtificialColumn < 769656) {\n        scroll_big.perlMysql += linkedinHardeningRup;\n        archie += 3;\n        risc.ripcording = 3;\n    }\n    var so = sampling_motion_unicode(webCursorImpact) + hub;\n```\n\n## Vehi arcus quondam australem agitabitur excessitque coniuge\n\nCelebrant est hausto *reperire et* unam **caerulaque**, lumen que *Aeaciden*\nmare primo insignis. Et Persidaque [tenet](http://suas.com/meignem), si centum\nque Iovis, inexspectatus mortalis si vindicet maior! Dryades canaeque, quae\ntrabes *effundite lacrimas ferax*, suo neve. Hoc postquam misceri melius ille\nvertice frena *fratremque quibus*.\n\n## Tulit lapis decore altis vidi solida\n\nTempli egreditur genitore parte. Captavit est *vicisse filia abesse* quem tibi\ndubie, fit ille mirantia, nymphae mox dumque intentare monstri. Exempla\nuberibus, non *res* saevique sic commenta aquis fugit sacris aliquidque totis,\ntamen.\n\n## Hic simul et tibi adversam quaeris senes\n\nQuae nescio fauces contigit in visus, abstitimus colorem enim ieiuna candescere\naerane mihi stipite nolle sunt. Non tabuit miratur caelesti simulacra fere\nParnasia principio genetricis atria potentia Hippotaden et terrae iuvere subdita\nquid.\n\n## Moderatus fluctibus mitibus\n\nIlle non revelli o dignare, scelus, loqui Solis quid flebam! Terras in Ixione\ntemeraria Orphea pectora. Suis aere da ante praeponere dignus magna tenuit\nNereides agrestem stare obstipuit threicius cadit haud.\n\n- Iam legebantur inter tum sensit enim similis\n- Vite ferus purpureum videt quo inferius dextra\n- Adsiluit iuvenes eduxit uno velle bene mora\n- Dilectaque aetatis interitura feritate\n\nSit aequore Haec Troum falleret Ismenides *cortice animam* est quoque Aeacus.\nInmittite hostem, succinctis insuper lentisciferumque Cerealis\n[Alemoniden](http://et.net/) matre decusque vade memor laberis, potentem?",
-        "contentDigest": "cfb7c463bf8af9786e573d52be561f87",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Angels of Mist",
-        "cover": "https://unsplash.it/1280/900/?random?AngelsofMist",
-        "category": "test3",
-        "date": "2017-01-03",
-        "tags": [
-          "cheese",
-          "other"
-        ],
-        "_PARENT": "/Users/st/workspace/chancesu/content/sample-posts/2017-01-03/index.md absPath of file",
-        "parent": "/Users/st/workspace/chancesu/content/sample-posts/2017-01-03/index.md absPath of file"
-      },
-      "fileAbsolutePath": "/Users/st/workspace/chancesu/content/sample-posts/2017-01-03/index.md",
-      "fields": {
-        "slug": "/angels-of-mist"
       }
     },
     "/Users/st/workspace/chancesu/content/sample-posts/2017-01-02/index.md absPath of file >>> MarkdownRemark": {
@@ -2749,6 +2719,36 @@
       "fileAbsolutePath": "/Users/st/workspace/chancesu/content/sample-posts/2017-02-03/index.md",
       "fields": {
         "slug": "/random-project-4-with-super-long-title-phase-one"
+      }
+    },
+    "/Users/st/workspace/chancesu/content/sample-posts/2017-01-03/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/st/workspace/chancesu/content/sample-posts/2017-01-03/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/st/workspace/chancesu/content/sample-posts/2017-01-03/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: \"Angels of Mist\"\ncover: \"https://unsplash.it/1280/900/?random?AngelsofMist\"\ncategory: \"test3\"\ndate: \"2017-01-03\"\ntags:\n    - cheese\n    - other\n---\n# Ab dicemur cura\n\n## Mane oscula anxia\n\nLorem markdownum alius, **non voluntas supremaque**: canes ager cingere quis;\nrerum? Nunc nec ferunt verbis vultumque candentia sequi visa Phrygii *zonarumque\ncerno*. Creatos plangente voluptas est nomen opes: nequeo ullus; accipiunt\nmollibus carmen. [Contigerant](http://esse-sertis.net/) haec Antium latebris\nmanus quamquam Erigdupum virgultis debes. Leones sanguine frondes cepit animi\nexcipit sed ponderis carpitur arbor pomi infamia.\n\n```js\n    subdirectory.video_backlink_jquery = plug_d.upSku.nuiMini(spyware);\n    property = hard + tracerouteNetCrop(multi, xp_byte, software_wheel_readme);\n    if (username.prebinding(kbps)) {\n        fifo_expansion_ppga += io_memory_fi(analyst_copyright(protocolZifPpc,\n                -3));\n        website += webRibbon;\n    }\n    if (httpsArtificialColumn < 769656) {\n        scroll_big.perlMysql += linkedinHardeningRup;\n        archie += 3;\n        risc.ripcording = 3;\n    }\n    var so = sampling_motion_unicode(webCursorImpact) + hub;\n```\n\n## Vehi arcus quondam australem agitabitur excessitque coniuge\n\nCelebrant est hausto *reperire et* unam **caerulaque**, lumen que *Aeaciden*\nmare primo insignis. Et Persidaque [tenet](http://suas.com/meignem), si centum\nque Iovis, inexspectatus mortalis si vindicet maior! Dryades canaeque, quae\ntrabes *effundite lacrimas ferax*, suo neve. Hoc postquam misceri melius ille\nvertice frena *fratremque quibus*.\n\n## Tulit lapis decore altis vidi solida\n\nTempli egreditur genitore parte. Captavit est *vicisse filia abesse* quem tibi\ndubie, fit ille mirantia, nymphae mox dumque intentare monstri. Exempla\nuberibus, non *res* saevique sic commenta aquis fugit sacris aliquidque totis,\ntamen.\n\n## Hic simul et tibi adversam quaeris senes\n\nQuae nescio fauces contigit in visus, abstitimus colorem enim ieiuna candescere\naerane mihi stipite nolle sunt. Non tabuit miratur caelesti simulacra fere\nParnasia principio genetricis atria potentia Hippotaden et terrae iuvere subdita\nquid.\n\n## Moderatus fluctibus mitibus\n\nIlle non revelli o dignare, scelus, loqui Solis quid flebam! Terras in Ixione\ntemeraria Orphea pectora. Suis aere da ante praeponere dignus magna tenuit\nNereides agrestem stare obstipuit threicius cadit haud.\n\n- Iam legebantur inter tum sensit enim similis\n- Vite ferus purpureum videt quo inferius dextra\n- Adsiluit iuvenes eduxit uno velle bene mora\n- Dilectaque aetatis interitura feritate\n\nSit aequore Haec Troum falleret Ismenides *cortice animam* est quoque Aeacus.\nInmittite hostem, succinctis insuper lentisciferumque Cerealis\n[Alemoniden](http://et.net/) matre decusque vade memor laberis, potentem?",
+        "contentDigest": "cfb7c463bf8af9786e573d52be561f87",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Angels of Mist",
+        "cover": "https://unsplash.it/1280/900/?random?AngelsofMist",
+        "category": "test3",
+        "date": "2017-01-03",
+        "tags": [
+          "cheese",
+          "other"
+        ],
+        "_PARENT": "/Users/st/workspace/chancesu/content/sample-posts/2017-01-03/index.md absPath of file",
+        "parent": "/Users/st/workspace/chancesu/content/sample-posts/2017-01-03/index.md absPath of file"
+      },
+      "fileAbsolutePath": "/Users/st/workspace/chancesu/content/sample-posts/2017-01-03/index.md",
+      "fields": {
+        "slug": "/angels-of-mist"
       }
     },
     "/Users/st/workspace/chancesu/content/sample-posts/2017-02-04/index.md absPath of file >>> MarkdownRemark": {
@@ -2876,7 +2876,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "bc0a96e850b5afe70d4d99350899bf8a",
+        "contentDigest": "3fe20037711434fb3bce6a6b052e860b",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2887,7 +2887,7 @@
       "size": 102,
       "prettySize": "102 B",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T06:29:52.000Z",
+      "accessTime": "2018-12-20T06:43:42.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -2905,11 +2905,11 @@
       "blksize": 4096,
       "ino": 4787337,
       "blocks": 0,
-      "atimeMs": 1545287392000,
+      "atimeMs": 1545288222000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T06:29:52.000Z",
+      "atime": "2018-12-20T06:43:42.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -2919,7 +2919,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5b8a309a0273ba7df4791296fc7b81d2",
+        "contentDigest": "b119cb861df528b438b91f2c8ee6679c",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2930,7 +2930,7 @@
       "size": 136,
       "prettySize": "136 B",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T06:29:52.000Z",
+      "accessTime": "2018-12-20T06:43:42.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -2948,11 +2948,11 @@
       "blksize": 4096,
       "ino": 4787338,
       "blocks": 0,
-      "atimeMs": 1545287392000,
+      "atimeMs": 1545288222000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T06:29:52.000Z",
+      "atime": "2018-12-20T06:43:42.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -2976,7 +2976,7 @@
       "size": 557,
       "prettySize": "557 B",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T06:27:53.000Z",
+      "accessTime": "2018-12-20T06:32:43.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -2994,11 +2994,11 @@
       "blksize": 4096,
       "ino": 4787339,
       "blocks": 8,
-      "atimeMs": 1545287273000,
+      "atimeMs": 1545287563000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T06:27:53.000Z",
+      "atime": "2018-12-20T06:32:43.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -3022,7 +3022,7 @@
       "size": 401,
       "prettySize": "401 B",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T06:27:53.000Z",
+      "accessTime": "2018-12-20T06:32:43.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -3040,11 +3040,11 @@
       "blksize": 4096,
       "ino": 4787340,
       "blocks": 8,
-      "atimeMs": 1545287273000,
+      "atimeMs": 1545287563000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T06:27:53.000Z",
+      "atime": "2018-12-20T06:32:43.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -3261,7 +3261,7 @@
         "total": 8,
         "limit": 10
       },
-      "updatedAt": 1545287393512,
+      "updatedAt": 1545288223751,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/index.jsx",
@@ -3270,7 +3270,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ca4a38fb1f8fc8f05a343985028835aa",
+        "contentDigest": "b0a6a74be3f145049d26dd84c35e8a2e",
         "owner": "internal-data-bridge"
       }
     },
@@ -3287,7 +3287,7 @@
         "prev": "/bold-mage",
         "next": "/birch-in-the-roses"
       },
-      "updatedAt": 1545287393513,
+      "updatedAt": 1545288223752,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/post.jsx",
@@ -3296,7 +3296,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "afad808e071eb35909ad7dc98843f656",
+        "contentDigest": "1164b4dafc4b04694a386c1e03d34744",
         "owner": "internal-data-bridge"
       }
     },
@@ -3313,7 +3313,7 @@
         "prev": "/big-sample-test",
         "next": "/the-butterfly-of-the-edge"
       },
-      "updatedAt": 1545287393514,
+      "updatedAt": 1545288223753,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/post.jsx",
@@ -3322,7 +3322,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4a8527f6f5fa978c01220217a6367464",
+        "contentDigest": "5a3de68187b004fd42c2ae6aa745b84c",
         "owner": "internal-data-bridge"
       }
     },
@@ -3339,7 +3339,7 @@
         "prev": "/birch-in-the-roses",
         "next": "/the-fairys-witches"
       },
-      "updatedAt": 1545287393515,
+      "updatedAt": 1545288223754,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/post.jsx",
@@ -3348,7 +3348,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cc4a754bac473dbcb4851e14349aff47",
+        "contentDigest": "7d1cd3a32cbd7509c2377de6763143c4",
         "owner": "internal-data-bridge"
       }
     },
@@ -3365,7 +3365,7 @@
         "prev": "/the-butterfly-of-the-edge",
         "next": "/random-project-4-with-super-long-title-phase-one"
       },
-      "updatedAt": 1545287393515,
+      "updatedAt": 1545288223755,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/post.jsx",
@@ -3374,7 +3374,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f00c9b484f72d774d24f1764c2126a7b",
+        "contentDigest": "52fe3eaad4bd4a64a0d2319aa695e0e1",
         "owner": "internal-data-bridge"
       }
     },
@@ -3391,7 +3391,7 @@
         "prev": "/the-fairys-witches",
         "next": "/angels-of-mist"
       },
-      "updatedAt": 1545287393515,
+      "updatedAt": 1545288223755,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/post.jsx",
@@ -3400,7 +3400,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "db0c6386b77933f0e7a5be40f267096a",
+        "contentDigest": "df9c65dd91490d075e3d1edd56a65203",
         "owner": "internal-data-bridge"
       }
     },
@@ -3417,7 +3417,7 @@
         "prev": "/random-project-4-with-super-long-title-phase-one",
         "next": "/the-fallen-time"
       },
-      "updatedAt": 1545287393516,
+      "updatedAt": 1545288223755,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/post.jsx",
@@ -3426,7 +3426,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9220478450b86e533bf42d390cdd654e",
+        "contentDigest": "92dfafa3c641e06569bc95e1f76eeec2",
         "owner": "internal-data-bridge"
       }
     },
@@ -3443,7 +3443,7 @@
         "prev": "/angels-of-mist",
         "next": "/bold-mage"
       },
-      "updatedAt": 1545287393516,
+      "updatedAt": 1545288223756,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/post.jsx",
@@ -3452,7 +3452,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "84255e8e0e9012c63189bca9e2548024",
+        "contentDigest": "94a7a0d9eefe47ef0ef9a310d6d59a3b",
         "owner": "internal-data-bridge"
       }
     },
@@ -3469,7 +3469,7 @@
         "prev": "/the-fallen-time",
         "next": "/big-sample-test"
       },
-      "updatedAt": 1545287393516,
+      "updatedAt": 1545288223756,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/post.jsx",
@@ -3478,7 +3478,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "16d91fa9ad9917bcbbd058680555dd74",
+        "contentDigest": "5420f3f77212c412702384d8bc6ddf7b",
         "owner": "internal-data-bridge"
       }
     },
@@ -3540,7 +3540,7 @@
         "total": 2,
         "limit": 10
       },
-      "updatedAt": 1545287393517,
+      "updatedAt": 1545288223757,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -3549,7 +3549,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8322a27730e18179f2df93b327b20bed",
+        "contentDigest": "09d729a75f53c2d673f2bdd37fc27212",
         "owner": "internal-data-bridge"
       }
     },
@@ -3590,7 +3590,7 @@
         "total": 1,
         "limit": 10
       },
-      "updatedAt": 1545287393517,
+      "updatedAt": 1545288223757,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -3599,7 +3599,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cb50bfad7857ed9ad952eff68b224e86",
+        "contentDigest": "ec9e3efcfbe6cd9317bc4441e58ebf38",
         "owner": "internal-data-bridge"
       }
     },
@@ -3640,7 +3640,7 @@
         "total": 1,
         "limit": 10
       },
-      "updatedAt": 1545287393518,
+      "updatedAt": 1545288223757,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -3649,7 +3649,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "11041cd83174f9676f1d8e15172536bf",
+        "contentDigest": "4dc794d64deb03fa05349e3be110133b",
         "owner": "internal-data-bridge"
       }
     },
@@ -3688,7 +3688,7 @@
         "total": 1,
         "limit": 10
       },
-      "updatedAt": 1545287393518,
+      "updatedAt": 1545288223758,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -3697,7 +3697,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8265d94be0194543b485b7724ca04de2",
+        "contentDigest": "d053ff65b9bc1fe6526f7bd43f23e1ca",
         "owner": "internal-data-bridge"
       }
     },
@@ -3762,7 +3762,7 @@
         "total": 2,
         "limit": 10
       },
-      "updatedAt": 1545287393518,
+      "updatedAt": 1545288223758,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -3771,7 +3771,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "72816233cdf3eb75f21cf77023b54e38",
+        "contentDigest": "d312f656ec49ee110bfc00a4350ecd2c",
         "owner": "internal-data-bridge"
       }
     },
@@ -3815,7 +3815,7 @@
         "total": 1,
         "limit": 10
       },
-      "updatedAt": 1545287393519,
+      "updatedAt": 1545288223758,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -3824,7 +3824,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0f142aa982bf6e59a76896102b572bf5",
+        "contentDigest": "d785c62f36a87ea1c81950f64aa1dd1f",
         "owner": "internal-data-bridge"
       }
     },
@@ -3868,7 +3868,7 @@
         "total": 1,
         "limit": 10
       },
-      "updatedAt": 1545287393519,
+      "updatedAt": 1545288223759,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -3877,7 +3877,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bb158e7787d9f5d2a7bd689bb9eddb07",
+        "contentDigest": "577261e04d75989db1a5d125d5e0d007",
         "owner": "internal-data-bridge"
       }
     },
@@ -3921,7 +3921,7 @@
         "total": 1,
         "limit": 10
       },
-      "updatedAt": 1545287393519,
+      "updatedAt": 1545288223759,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -3930,7 +3930,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c3a69d7a443c7cf8f0f8ea5d287f8c44",
+        "contentDigest": "6aa01e0fad511b1db5abd96637e90ffe",
         "owner": "internal-data-bridge"
       }
     },
@@ -3995,7 +3995,7 @@
         "total": 2,
         "limit": 10
       },
-      "updatedAt": 1545287393520,
+      "updatedAt": 1545288223759,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -4004,7 +4004,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "177a99870d237609dbf10ba869f2cfee",
+        "contentDigest": "a725f3d5fccb9b96fa6b9ffec0c48621",
         "owner": "internal-data-bridge"
       }
     },
@@ -4089,7 +4089,7 @@
         "total": 3,
         "limit": 10
       },
-      "updatedAt": 1545287393520,
+      "updatedAt": 1545288223760,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -4098,7 +4098,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "86afea47a0c24e664bffc6be511b85b8",
+        "contentDigest": "9ecef650d9851698061895740d4c800e",
         "owner": "internal-data-bridge"
       }
     },
@@ -4137,7 +4137,7 @@
         "total": 1,
         "limit": 10
       },
-      "updatedAt": 1545287393521,
+      "updatedAt": 1545288223760,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -4146,7 +4146,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "30f7fd67107116775a9eacaf78a6fe60",
+        "contentDigest": "51a3d0972db2a3c609226f5c38a1c484",
         "owner": "internal-data-bridge"
       }
     },
@@ -4186,7 +4186,7 @@
         "total": 1,
         "limit": 10
       },
-      "updatedAt": 1545287393521,
+      "updatedAt": 1545288223760,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -4195,7 +4195,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "003e034a23bf1fcaa4e0d2217c904dfa",
+        "contentDigest": "6f02921e04887a98a56ca885f6833dc1",
         "owner": "internal-data-bridge"
       }
     },
@@ -4236,7 +4236,7 @@
         "total": 1,
         "limit": 10
       },
-      "updatedAt": 1545287393521,
+      "updatedAt": 1545288223761,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -4245,7 +4245,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e24edb3a9fb4b084cce38e853387bea0",
+        "contentDigest": "5d896a5b8be1877b9d4920d0831eedf2",
         "owner": "internal-data-bridge"
       }
     },
@@ -4286,7 +4286,7 @@
         "total": 1,
         "limit": 10
       },
-      "updatedAt": 1545287393522,
+      "updatedAt": 1545288223761,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -4295,7 +4295,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6b334dc93224bb6b53a9fa6bfcb3cbdc",
+        "contentDigest": "10c35e348014536c0c14e384835e68fd",
         "owner": "internal-data-bridge"
       }
     },
@@ -4309,7 +4309,7 @@
       "context": {
         "category": "moar"
       },
-      "updatedAt": 1545287393522,
+      "updatedAt": 1545288223762,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/category.jsx",
@@ -4318,7 +4318,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1f600d1752f0379373706cc82f71bfe6",
+        "contentDigest": "144aad5685613f3775fbff92d88cea23",
         "owner": "internal-data-bridge"
       }
     },
@@ -4332,7 +4332,7 @@
       "context": {
         "category": "tech"
       },
-      "updatedAt": 1545287393522,
+      "updatedAt": 1545288223762,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/category.jsx",
@@ -4341,7 +4341,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "248d49cb76c02c606d094458eb12ef75",
+        "contentDigest": "3211cca622d93be1062673230c7abf70",
         "owner": "internal-data-bridge"
       }
     },
@@ -4355,7 +4355,7 @@
       "context": {
         "category": "something"
       },
-      "updatedAt": 1545287393523,
+      "updatedAt": 1545288223762,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/category.jsx",
@@ -4364,7 +4364,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "24cd6a68e7003215354985959226e369",
+        "contentDigest": "88f3590e2d84cc407fb8625d306cc4de",
         "owner": "internal-data-bridge"
       }
     },
@@ -4378,7 +4378,7 @@
       "context": {
         "category": "random"
       },
-      "updatedAt": 1545287393523,
+      "updatedAt": 1545288223763,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/category.jsx",
@@ -4387,7 +4387,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "56636850ee3d5021a89da450894673de",
+        "contentDigest": "5113d62afd518327c43c098b1c3a6a60",
         "owner": "internal-data-bridge"
       }
     },
@@ -4401,7 +4401,7 @@
       "context": {
         "category": "test3"
       },
-      "updatedAt": 1545287393523,
+      "updatedAt": 1545288223763,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/category.jsx",
@@ -4410,7 +4410,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "25d0521015d4b69450a7c42b0ccf5c20",
+        "contentDigest": "e0c0fb62802848c8e77f21ea395ea2a8",
         "owner": "internal-data-bridge"
       }
     },
@@ -4424,7 +4424,7 @@
       "context": {
         "category": "another one"
       },
-      "updatedAt": 1545287393523,
+      "updatedAt": 1545288223763,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/category.jsx",
@@ -4433,7 +4433,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fae094dcf36aa7d08458daca077e72e3",
+        "contentDigest": "e8261efd1309558a6d0edb837ee3c0e8",
         "owner": "internal-data-bridge"
       }
     },
@@ -4447,7 +4447,7 @@
       "context": {
         "author": "casper"
       },
-      "updatedAt": 1545287393524,
+      "updatedAt": 1545288223764,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/author.jsx",
@@ -4456,7 +4456,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "26d5240e8515aeb5c0f8861b2456ade0",
+        "contentDigest": "2629b86bbcdf6fc8720ea01b3132a9f9",
         "owner": "internal-data-bridge"
       }
     },
@@ -4470,7 +4470,7 @@
       "context": {
         "author": "guinevere"
       },
-      "updatedAt": 1545287393524,
+      "updatedAt": 1545288223764,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/author.jsx",
@@ -4479,7 +4479,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fd212cdd0579637b580fce4e1f021062",
+        "contentDigest": "4a18c5752ffac6a758cf5fcb0b4e41ed",
         "owner": "internal-data-bridge"
       }
     },
@@ -4491,7 +4491,7 @@
       "component": "/Users/st/workspace/chancesu/src/pages/about.jsx",
       "componentChunkName": "component---src-pages-about-jsx",
       "context": {},
-      "updatedAt": 1545287393554,
+      "updatedAt": 1545288223796,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/st/workspace/chancesu/src/pages/about.jsx",
@@ -4500,14 +4500,14 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c3e886f42f5535a2f0650fcf182bd2fa",
+        "contentDigest": "a526e1d3b80057a76511370c60b1e169",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "cfbe1e85468455e29ba460ee75a9b0f2"
+    "PLUGINS_HASH": "df69f5dc636f9bcd772ee9f61204bfd7"
   },
   "componentDataDependencies": {
     "nodes": {
