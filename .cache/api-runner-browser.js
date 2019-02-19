@@ -6,7 +6,7 @@ var plugins = [{
       options: {"plugins":[],"trackingId":"UA-111982167-1"},
     },{
       plugin: require('/Users/st/workspace/chancesu/node_modules/gatsby-plugin-nprogress/gatsby-browser.js'),
-      options: {"plugins":[],"color":"#c62828"},
+      options: {"plugins":[],"color":"#ffac2a"},
     },{
       plugin: require('/Users/st/workspace/chancesu/node_modules/gatsby-plugin-catch-links/gatsby-browser.js'),
       options: {"plugins":[]},

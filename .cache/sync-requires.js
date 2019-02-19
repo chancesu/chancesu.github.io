@@ -7,7 +7,7 @@ exports.layouts = {
 }
 
 exports.components = {
-  "component---node-modules-gatsby-plugin-offline-app-shell-js": preferDefault(require("/Users/st/workspace/chancesu/node_modules/gatsby-plugin-offline/app-shell.js")),
+  "component---cache-dev-404-page-js": preferDefault(require("/Users/st/workspace/chancesu/.cache/dev-404-page.js")),
   "component---src-templates-index-jsx": preferDefault(require("/Users/st/workspace/chancesu/src/templates/index.jsx")),
   "component---src-templates-post-jsx": preferDefault(require("/Users/st/workspace/chancesu/src/templates/post.jsx")),
   "component---src-templates-tag-jsx": preferDefault(require("/Users/st/workspace/chancesu/src/templates/tag.jsx")),
@@ -18,7 +18,7 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("/Users/st/workspace/chancesu/.cache/json/layout-index.json"),
-  "offline-plugin-app-shell-fallback.json": require("/Users/st/workspace/chancesu/.cache/json/offline-plugin-app-shell-fallback.json"),
+  "dev-404-page.json": require("/Users/st/workspace/chancesu/.cache/json/dev-404-page.json"),
   "layout-index.json": require("/Users/st/workspace/chancesu/.cache/json/layout-index.json"),
   "index.json": require("/Users/st/workspace/chancesu/.cache/json/index.json"),
   "layout-index.json": require("/Users/st/workspace/chancesu/.cache/json/layout-index.json"),

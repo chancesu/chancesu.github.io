@@ -2,7 +2,7 @@
 const preferDefault = m => m && m.default || m
 
 exports.components = {
-  "component---node-modules-gatsby-plugin-offline-app-shell-js": require("gatsby-module-loader?name=component---node-modules-gatsby-plugin-offline-app-shell-js!/Users/st/workspace/chancesu/node_modules/gatsby-plugin-offline/app-shell.js"),
+  "component---cache-dev-404-page-js": require("gatsby-module-loader?name=component---cache-dev-404-page-js!/Users/st/workspace/chancesu/.cache/dev-404-page.js"),
   "component---src-templates-index-jsx": require("gatsby-module-loader?name=component---src-templates-index-jsx!/Users/st/workspace/chancesu/src/templates/index.jsx"),
   "component---src-templates-post-jsx": require("gatsby-module-loader?name=component---src-templates-post-jsx!/Users/st/workspace/chancesu/src/templates/post.jsx"),
   "component---src-templates-tag-jsx": require("gatsby-module-loader?name=component---src-templates-tag-jsx!/Users/st/workspace/chancesu/src/templates/tag.jsx"),
@@ -13,7 +13,7 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/st/workspace/chancesu/.cache/json/layout-index.json"),
-  "offline-plugin-app-shell-fallback.json": require("gatsby-module-loader?name=path---offline-plugin-app-shell-fallback!/Users/st/workspace/chancesu/.cache/json/offline-plugin-app-shell-fallback.json"),
+  "dev-404-page.json": require("gatsby-module-loader?name=path---dev-404-page!/Users/st/workspace/chancesu/.cache/json/dev-404-page.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/st/workspace/chancesu/.cache/json/layout-index.json"),
   "index.json": require("gatsby-module-loader?name=path---index!/Users/st/workspace/chancesu/.cache/json/index.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/st/workspace/chancesu/.cache/json/layout-index.json"),

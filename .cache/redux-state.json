@@ -1,13 +1,23 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/Users/st/workspace/chancesu/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "updatedAt": 1550050951641,
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/st/workspace/chancesu/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "b09506ff4e76378612405a633bc0f1cb",
         "owner": "internal-data-bridge"
       }
     },
@@ -1063,7 +1073,7 @@
       "version": "1.0.9",
       "pluginOptions": {
         "plugins": [],
-        "color": "#c62828"
+        "color": "#ffac2a"
       },
       "nodeAPIs": [],
       "pluginFilepath": "/Users/st/workspace/chancesu/node_modules/gatsby-plugin-nprogress",
@@ -1107,7 +1117,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5d45e3ed3fd34cbebe4f9a16c6a86de8",
+        "contentDigest": "9a6cb9be78f37bb1bd93bdd28ec75e32",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1375,12 +1385,12 @@
       "version": "1.0.12",
       "pluginOptions": {
         "plugins": [],
-        "name": "Gatsby Casper Starter",
-        "short_name": "Gatsby Casper Starter",
-        "description": "A Casper themed GatsbyJS stater based on the Advanced Starter.",
+        "name": "Cat over keyboard",
+        "short_name": "Cat over keyboard",
+        "description": "키보드 위 고양이 - front end web developer chancesu",
         "start_url": "/gatsby-starter-casper",
         "background_color": "#e0e0e0",
-        "theme_color": "#c62828",
+        "theme_color": "#ffac2a",
         "display": "minimal-ui",
         "icons": [
           {
@@ -1443,7 +1453,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "6efa87d3855081bbf77a8718c14ddde8",
+        "contentDigest": "f049e03c1ac9df3457c9472d01d0d081",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1843,21 +1853,23 @@
         "rssMetadata": {
           "site_url": "https://haysclark.github.io/gatsby-starter-casper",
           "feed_url": "https://haysclark.github.io/gatsby-starter-casper/rss.xml",
-          "title": "Gatsby Casper Starter",
-          "description": "A Casper themed GatsbyJS stater based on the Advanced Starter.",
+          "title": "Cat over keyboard",
+          "description": "키보드 위 고양이 - front end web developer chancesu",
           "image_url": "https://haysclark.github.io/gatsby-starter-casper/logos/logo-512.png",
-          "author": "Casper User",
-          "copyright": "Gatsby Casper Starter © 2018"
+          "author": "chancesu",
+          "copyright": "Gatsby Casper Starter © 2019"
         }
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "/gatsby-starter-casper",
       "polyfill": true,
-      "buildTime": "2018-12-20T07:14:58.024Z",
+      "buildTime": "2019-02-13T09:42:29.636Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "2f36a1436758a5819fc7618477e5c7f0",
+        "contentDigest": "d8d223f9e82b3361814e9f6f165d1c97",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1867,7 +1879,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8e365c1cbebf725fc38c35ea1fb92a50",
+        "contentDigest": "cefe1c72f56cfb1d41e5eef9f689924f",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1878,7 +1890,7 @@
       "size": 340,
       "prettySize": "340 B",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T07:15:01.000Z",
+      "accessTime": "2019-02-13T09:42:31.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -1896,11 +1908,11 @@
       "blksize": 4096,
       "ino": 4787341,
       "blocks": 0,
-      "atimeMs": 1545290101000,
+      "atimeMs": 1550050951000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T07:15:01.000Z",
+      "atime": "2019-02-13T09:42:31.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -1910,7 +1922,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d2a31c1d018632aa0b613dfb1d5bd2ca",
+        "contentDigest": "2f6dcd199749cae110abc6b3b6cd6e8b",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1921,7 +1933,7 @@
       "size": 102,
       "prettySize": "102 B",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T07:15:01.000Z",
+      "accessTime": "2019-02-13T09:42:31.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -1939,11 +1951,11 @@
       "blksize": 4096,
       "ino": 4787342,
       "blocks": 0,
-      "atimeMs": 1545290101000,
+      "atimeMs": 1550050951000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T07:15:01.000Z",
+      "atime": "2019-02-13T09:42:31.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -1953,7 +1965,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "025c211a0268cbed41f30da00a78a367",
+        "contentDigest": "ff870b3684dedb776f4d3c3e71630b09",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1964,7 +1976,7 @@
       "size": 102,
       "prettySize": "102 B",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T07:15:01.000Z",
+      "accessTime": "2019-02-13T09:42:31.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -1982,11 +1994,11 @@
       "blksize": 4096,
       "ino": 4787344,
       "blocks": 0,
-      "atimeMs": 1545290101000,
+      "atimeMs": 1550050951000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T07:15:01.000Z",
+      "atime": "2019-02-13T09:42:31.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -1996,7 +2008,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d4bb06b61399215e31ef853ae4111b75",
+        "contentDigest": "f2068b9140a93959ccd1eaac1ed057c2",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2007,7 +2019,7 @@
       "size": 102,
       "prettySize": "102 B",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T07:15:01.000Z",
+      "accessTime": "2019-02-13T09:42:31.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -2025,11 +2037,11 @@
       "blksize": 4096,
       "ino": 4787346,
       "blocks": 0,
-      "atimeMs": 1545290101000,
+      "atimeMs": 1550050951000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T07:15:01.000Z",
+      "atime": "2019-02-13T09:42:31.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -2039,7 +2051,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d387fd2fd5a5a59d7949b30a2bbc7562",
+        "contentDigest": "a191b0f914efd1a88ca240c2c1130d7c",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2050,7 +2062,7 @@
       "size": 102,
       "prettySize": "102 B",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T07:15:01.000Z",
+      "accessTime": "2019-02-13T09:42:31.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -2068,11 +2080,11 @@
       "blksize": 4096,
       "ino": 4787348,
       "blocks": 0,
-      "atimeMs": 1545290101000,
+      "atimeMs": 1550050951000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T07:15:01.000Z",
+      "atime": "2019-02-13T09:42:31.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -2082,7 +2094,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9cdf2a2dfbbf39637d0ede04a92814b8",
+        "contentDigest": "71499a74718855b652390ed7deef45e2",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2093,7 +2105,7 @@
       "size": 102,
       "prettySize": "102 B",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T07:15:01.000Z",
+      "accessTime": "2019-02-13T09:42:31.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -2111,11 +2123,11 @@
       "blksize": 4096,
       "ino": 4787350,
       "blocks": 0,
-      "atimeMs": 1545290101000,
+      "atimeMs": 1550050951000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T07:15:01.000Z",
+      "atime": "2019-02-13T09:42:31.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -2125,7 +2137,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7c46c19d663fd350e3fb7e121b0aa63d",
+        "contentDigest": "db5f58a289c31e60a653d62c32684817",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2136,7 +2148,7 @@
       "size": 102,
       "prettySize": "102 B",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T07:15:01.000Z",
+      "accessTime": "2019-02-13T09:42:31.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -2154,11 +2166,11 @@
       "blksize": 4096,
       "ino": 4787352,
       "blocks": 0,
-      "atimeMs": 1545290101000,
+      "atimeMs": 1550050951000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T07:15:01.000Z",
+      "atime": "2019-02-13T09:42:31.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -2168,7 +2180,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "586ecc11bdefea916cc4398bfff383d5",
+        "contentDigest": "50ae94b58e8c441b11825e5a333ad7f6",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2179,7 +2191,7 @@
       "size": 102,
       "prettySize": "102 B",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T07:15:01.000Z",
+      "accessTime": "2019-02-13T09:42:31.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -2197,11 +2209,11 @@
       "blksize": 4096,
       "ino": 4787354,
       "blocks": 0,
-      "atimeMs": 1545290101000,
+      "atimeMs": 1550050951000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T07:15:01.000Z",
+      "atime": "2019-02-13T09:42:31.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -2211,7 +2223,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b7cf97da5a1700a8d72ef28c94c6d5ab",
+        "contentDigest": "78c1cda8d0bd2bfe985448b5931accc7",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2222,7 +2234,7 @@
       "size": 102,
       "prettySize": "102 B",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T07:15:01.000Z",
+      "accessTime": "2019-02-13T09:42:31.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -2240,11 +2252,11 @@
       "blksize": 4096,
       "ino": 4787356,
       "blocks": 0,
-      "atimeMs": 1545290101000,
+      "atimeMs": 1550050951000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T07:15:01.000Z",
+      "atime": "2019-02-13T09:42:31.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -2864,7 +2876,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "56a691395453dba273465bdd674bfae8",
+        "contentDigest": "55949aaf8035cdce46a94663a8857e93",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2875,7 +2887,7 @@
       "size": 102,
       "prettySize": "102 B",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T07:15:01.000Z",
+      "accessTime": "2019-02-13T09:42:31.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -2893,11 +2905,11 @@
       "blksize": 4096,
       "ino": 4787337,
       "blocks": 0,
-      "atimeMs": 1545290101000,
+      "atimeMs": 1550050951000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T07:15:01.000Z",
+      "atime": "2019-02-13T09:42:31.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -2907,7 +2919,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "fcd47656a877b94f1c22e5b82fe2693f",
+        "contentDigest": "e1c9f8762dbe416a6d220de6e1fb70d5",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2918,7 +2930,7 @@
       "size": 136,
       "prettySize": "136 B",
       "modifiedTime": "2018-12-20T06:12:42.000Z",
-      "accessTime": "2018-12-20T07:15:01.000Z",
+      "accessTime": "2019-02-13T09:42:31.000Z",
       "changeTime": "2018-12-20T06:27:53.000Z",
       "birthTime": "2018-12-20T06:12:42.000Z",
       "root": "/",
@@ -2936,11 +2948,11 @@
       "blksize": 4096,
       "ino": 4787338,
       "blocks": 0,
-      "atimeMs": 1545290101000,
+      "atimeMs": 1550050951000,
       "mtimeMs": 1545286362000,
       "ctimeMs": 1545287273000,
       "birthtimeMs": 1545286362000,
-      "atime": "2018-12-20T07:15:01.000Z",
+      "atime": "2019-02-13T09:42:31.000Z",
       "mtime": "2018-12-20T06:12:42.000Z",
       "ctime": "2018-12-20T06:27:53.000Z",
       "birthtime": "2018-12-20T06:12:42.000Z"
@@ -3070,27 +3082,6 @@
         "contentDigest": "0f30900a3bf62282b7bc895e3496a8f4",
         "type": "AuthorsJson",
         "owner": "gatsby-transformer-json"
-      }
-    },
-    "SitePage /offline-plugin-app-shell-fallback/": {
-      "layout": "index",
-      "jsonName": "offline-plugin-app-shell-fallback.json",
-      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
-      "path": "/offline-plugin-app-shell-fallback/",
-      "component": "/Users/st/workspace/chancesu/node_modules/gatsby-plugin-offline/app-shell.js",
-      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
-      "context": {},
-      "updatedAt": 1545290102645,
-      "pluginCreator___NODE": "Plugin gatsby-plugin-offline",
-      "pluginCreatorId": "Plugin gatsby-plugin-offline",
-      "componentPath": "/Users/st/workspace/chancesu/node_modules/gatsby-plugin-offline/app-shell.js",
-      "id": "SitePage /offline-plugin-app-shell-fallback/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "af6f7cf02abd48838037baf7430add03",
-        "owner": "internal-data-bridge"
       }
     },
     "SitePage /": {
@@ -3270,7 +3261,7 @@
         "total": 8,
         "limit": 10
       },
-      "updatedAt": 1545290102709,
+      "updatedAt": 1550050951695,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/index.jsx",
@@ -3279,7 +3270,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bb2e5068ffa99528b5c93f47f873b7af",
+        "contentDigest": "8d6fa7f6d983fdd6e64d3134159bca54",
         "owner": "internal-data-bridge"
       }
     },
@@ -3296,7 +3287,7 @@
         "prev": "/bold-mage",
         "next": "/birch-in-the-roses"
       },
-      "updatedAt": 1545290102710,
+      "updatedAt": 1550050951696,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/post.jsx",
@@ -3305,7 +3296,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a979cec0e4ace2dd0bc5da9f03fe505f",
+        "contentDigest": "863c9b3df47bd3f92913a64fbac0d6ca",
         "owner": "internal-data-bridge"
       }
     },
@@ -3322,7 +3313,7 @@
         "prev": "/big-sample-test",
         "next": "/the-butterfly-of-the-edge"
       },
-      "updatedAt": 1545290102710,
+      "updatedAt": 1550050951696,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/post.jsx",
@@ -3331,7 +3322,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "90e4bcb0a18131ab50725ef1e441d382",
+        "contentDigest": "60ddd53dfc07a1926fd5bed5a743d1f9",
         "owner": "internal-data-bridge"
       }
     },
@@ -3348,7 +3339,7 @@
         "prev": "/birch-in-the-roses",
         "next": "/the-fairys-witches"
       },
-      "updatedAt": 1545290102712,
+      "updatedAt": 1550050951696,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/post.jsx",
@@ -3357,7 +3348,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3c83e3e2dfc9fcaa9c9ead902c6e64f6",
+        "contentDigest": "c1692b67dcdadc70e22259ff41527ba3",
         "owner": "internal-data-bridge"
       }
     },
@@ -3374,7 +3365,7 @@
         "prev": "/the-butterfly-of-the-edge",
         "next": "/random-project-4-with-super-long-title-phase-one"
       },
-      "updatedAt": 1545290102712,
+      "updatedAt": 1550050951697,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/post.jsx",
@@ -3383,7 +3374,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6d7521d997dbf5b44d1fa534bf2d3c32",
+        "contentDigest": "d9040b5c408e19e2a2b1d35286d2d9e4",
         "owner": "internal-data-bridge"
       }
     },
@@ -3400,7 +3391,7 @@
         "prev": "/the-fairys-witches",
         "next": "/angels-of-mist"
       },
-      "updatedAt": 1545290102712,
+      "updatedAt": 1550050951698,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/post.jsx",
@@ -3409,7 +3400,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "56e36123ae5b3d98bb21db4ce281c5d5",
+        "contentDigest": "f3ba681ee4ee6479ea6eca4ac4b5ea3a",
         "owner": "internal-data-bridge"
       }
     },
@@ -3426,7 +3417,7 @@
         "prev": "/random-project-4-with-super-long-title-phase-one",
         "next": "/the-fallen-time"
       },
-      "updatedAt": 1545290102713,
+      "updatedAt": 1550050951698,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/post.jsx",
@@ -3435,7 +3426,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ca3cbb160b5e834f2129b9d7e4120c97",
+        "contentDigest": "681c6412b2a819f5be4d0a338bd439a2",
         "owner": "internal-data-bridge"
       }
     },
@@ -3452,7 +3443,7 @@
         "prev": "/angels-of-mist",
         "next": "/bold-mage"
       },
-      "updatedAt": 1545290102713,
+      "updatedAt": 1550050951698,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/post.jsx",
@@ -3461,7 +3452,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9e709f1768d97a07388c41e447c9fa7c",
+        "contentDigest": "0bdc0528ada9b1d51862af0567c18f0f",
         "owner": "internal-data-bridge"
       }
     },
@@ -3478,7 +3469,7 @@
         "prev": "/the-fallen-time",
         "next": "/big-sample-test"
       },
-      "updatedAt": 1545290102714,
+      "updatedAt": 1550050951699,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/post.jsx",
@@ -3487,7 +3478,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9b4ad4e31af35dbae454b2803a1ae9e0",
+        "contentDigest": "582e48f394f87d59acf565e81032ea78",
         "owner": "internal-data-bridge"
       }
     },
@@ -3549,7 +3540,7 @@
         "total": 2,
         "limit": 10
       },
-      "updatedAt": 1545290102714,
+      "updatedAt": 1550050951699,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -3558,7 +3549,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e533d993b8d1db066f80b9bc577724cc",
+        "contentDigest": "b20c8b322772251477c9e72416fcfa41",
         "owner": "internal-data-bridge"
       }
     },
@@ -3599,7 +3590,7 @@
         "total": 1,
         "limit": 10
       },
-      "updatedAt": 1545290102715,
+      "updatedAt": 1550050951700,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -3608,7 +3599,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f6adaa5bc84e1ac06ec358fef44bdfd9",
+        "contentDigest": "d280715ef4fa3b2d60c13be1ccf026af",
         "owner": "internal-data-bridge"
       }
     },
@@ -3649,7 +3640,7 @@
         "total": 1,
         "limit": 10
       },
-      "updatedAt": 1545290102715,
+      "updatedAt": 1550050951700,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -3658,7 +3649,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "42c26dca9c590dd36a5c62e8412e6e3f",
+        "contentDigest": "8003d0aceaba1a213251b961c4d6dbb0",
         "owner": "internal-data-bridge"
       }
     },
@@ -3697,7 +3688,7 @@
         "total": 1,
         "limit": 10
       },
-      "updatedAt": 1545290102715,
+      "updatedAt": 1550050951700,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -3706,7 +3697,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "39df1bbfc447c210089231047068275d",
+        "contentDigest": "91612c1108692071b24ab5ae1a77ad18",
         "owner": "internal-data-bridge"
       }
     },
@@ -3771,7 +3762,7 @@
         "total": 2,
         "limit": 10
       },
-      "updatedAt": 1545290102716,
+      "updatedAt": 1550050951701,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -3780,7 +3771,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a9cd63bcab13054cc1e426179200c3f7",
+        "contentDigest": "e5062aa5321f71a4cc5144b61dd908e8",
         "owner": "internal-data-bridge"
       }
     },
@@ -3824,7 +3815,7 @@
         "total": 1,
         "limit": 10
       },
-      "updatedAt": 1545290102716,
+      "updatedAt": 1550050951701,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -3833,7 +3824,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e4681f9b3668d070e2843962a7304e27",
+        "contentDigest": "301be0ad8e3110b3da7caaa382cab450",
         "owner": "internal-data-bridge"
       }
     },
@@ -3877,7 +3868,7 @@
         "total": 1,
         "limit": 10
       },
-      "updatedAt": 1545290102716,
+      "updatedAt": 1550050951701,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -3886,7 +3877,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fc656276bc48e47ad36317b965d923fa",
+        "contentDigest": "c39af0ef1a623d2a3b9a2afb4e8e62bb",
         "owner": "internal-data-bridge"
       }
     },
@@ -3930,7 +3921,7 @@
         "total": 1,
         "limit": 10
       },
-      "updatedAt": 1545290102717,
+      "updatedAt": 1550050951702,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -3939,7 +3930,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2d2858e6a2ffa771a182ff8719730649",
+        "contentDigest": "c1bcbdc02c4a1dece40976169250c081",
         "owner": "internal-data-bridge"
       }
     },
@@ -4004,7 +3995,7 @@
         "total": 2,
         "limit": 10
       },
-      "updatedAt": 1545290102717,
+      "updatedAt": 1550050951702,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -4013,7 +4004,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "aae85abfe46fdeebe720f74848273152",
+        "contentDigest": "57592385dd8cbd114304424ee9c9a12b",
         "owner": "internal-data-bridge"
       }
     },
@@ -4098,7 +4089,7 @@
         "total": 3,
         "limit": 10
       },
-      "updatedAt": 1545290102717,
+      "updatedAt": 1550050951702,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -4107,7 +4098,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3ab534efbfef2029be4c21d411695345",
+        "contentDigest": "e071a5419a0109ecc623db546f8bb0d1",
         "owner": "internal-data-bridge"
       }
     },
@@ -4146,7 +4137,7 @@
         "total": 1,
         "limit": 10
       },
-      "updatedAt": 1545290102718,
+      "updatedAt": 1550050951703,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -4155,7 +4146,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1c4d24d598d000d0cd6ba4b4918c1efb",
+        "contentDigest": "2505f346e4bdb43514a0588c3ed307ee",
         "owner": "internal-data-bridge"
       }
     },
@@ -4195,7 +4186,7 @@
         "total": 1,
         "limit": 10
       },
-      "updatedAt": 1545290102718,
+      "updatedAt": 1550050951703,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -4204,7 +4195,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0b5af39bf22637ad5f8070512acd8e6b",
+        "contentDigest": "e564190ef48d50673fc39d43951012a2",
         "owner": "internal-data-bridge"
       }
     },
@@ -4245,7 +4236,7 @@
         "total": 1,
         "limit": 10
       },
-      "updatedAt": 1545290102718,
+      "updatedAt": 1550050951703,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -4254,7 +4245,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7daa3ef976a28b9b83eaef8b17a73ab2",
+        "contentDigest": "6a720fa1e4934bc4fde9915e9704282a",
         "owner": "internal-data-bridge"
       }
     },
@@ -4295,7 +4286,7 @@
         "total": 1,
         "limit": 10
       },
-      "updatedAt": 1545290102718,
+      "updatedAt": 1550050951704,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/tag.jsx",
@@ -4304,7 +4295,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7a4d11752839cb443b6888a8347b718c",
+        "contentDigest": "8b33aad910dad107a754b96363a55932",
         "owner": "internal-data-bridge"
       }
     },
@@ -4318,7 +4309,7 @@
       "context": {
         "category": "moar"
       },
-      "updatedAt": 1545290102719,
+      "updatedAt": 1550050951706,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/category.jsx",
@@ -4327,7 +4318,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4432c9f7c7508d91da457faf6a3d1bae",
+        "contentDigest": "72f89d71fb1d683ba6782ca339cb0064",
         "owner": "internal-data-bridge"
       }
     },
@@ -4341,7 +4332,7 @@
       "context": {
         "category": "tech"
       },
-      "updatedAt": 1545290102720,
+      "updatedAt": 1550050951706,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/category.jsx",
@@ -4350,7 +4341,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4beb9e025b65a7528cfa5e3d09babf4b",
+        "contentDigest": "2f2ca68464594b66072393180b69ba05",
         "owner": "internal-data-bridge"
       }
     },
@@ -4364,7 +4355,7 @@
       "context": {
         "category": "something"
       },
-      "updatedAt": 1545290102721,
+      "updatedAt": 1550050951706,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/category.jsx",
@@ -4373,7 +4364,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "00698d3861c31e0a5fb0c08dd368be62",
+        "contentDigest": "420663f018e75f9c9e637f217bff8f5e",
         "owner": "internal-data-bridge"
       }
     },
@@ -4387,7 +4378,7 @@
       "context": {
         "category": "random"
       },
-      "updatedAt": 1545290102721,
+      "updatedAt": 1550050951707,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/category.jsx",
@@ -4396,7 +4387,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4f04fb10e02779ae7fbff08cd0163a96",
+        "contentDigest": "357d8e856440c0302e0483f047c8739c",
         "owner": "internal-data-bridge"
       }
     },
@@ -4410,7 +4401,7 @@
       "context": {
         "category": "test3"
       },
-      "updatedAt": 1545290102721,
+      "updatedAt": 1550050951707,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/category.jsx",
@@ -4419,7 +4410,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f888377db1ae948c4739ab69335e3bca",
+        "contentDigest": "7e0780b901787977f55dbd23b9a46e72",
         "owner": "internal-data-bridge"
       }
     },
@@ -4433,7 +4424,7 @@
       "context": {
         "category": "another one"
       },
-      "updatedAt": 1545290102722,
+      "updatedAt": 1550050951707,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/category.jsx",
@@ -4442,7 +4433,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6d0445dac3f9407864e022df28341ea2",
+        "contentDigest": "957897f29f12955aad20c2eaed1464c0",
         "owner": "internal-data-bridge"
       }
     },
@@ -4456,7 +4447,7 @@
       "context": {
         "author": "casper"
       },
-      "updatedAt": 1545290102722,
+      "updatedAt": 1550050951708,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/author.jsx",
@@ -4465,7 +4456,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8bd6c1f7191d467970a9985d93b9b514",
+        "contentDigest": "05c4e035f01feb829bfdc0b709bf2614",
         "owner": "internal-data-bridge"
       }
     },
@@ -4479,7 +4470,7 @@
       "context": {
         "author": "guinevere"
       },
-      "updatedAt": 1545290102722,
+      "updatedAt": 1550050951709,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/Users/st/workspace/chancesu/src/templates/author.jsx",
@@ -4488,7 +4479,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "72364d000594b27d8dbc1b97f39af0b5",
+        "contentDigest": "fd450cc5f035de959e573589f1d365ca",
         "owner": "internal-data-bridge"
       }
     },
@@ -4500,7 +4491,7 @@
       "component": "/Users/st/workspace/chancesu/src/pages/about.jsx",
       "componentChunkName": "component---src-pages-about-jsx",
       "context": {},
-      "updatedAt": 1545290102748,
+      "updatedAt": 1550050951741,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/st/workspace/chancesu/src/pages/about.jsx",
@@ -4509,7 +4500,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9762cce9e7bb6c8373cef9694a3ebe12",
+        "contentDigest": "d22df5d8a9049dd731696ee5337093d7",
         "owner": "internal-data-bridge"
       }
     }
