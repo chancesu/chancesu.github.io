@@ -1,0 +1,33 @@
+{
+  "name": "chancesu",
+  "version": "1.0.0",
+  "description": "Cat over keyboard blog",
+  "author": "",
+  "scripts": {
+    "test": "Cat over keyboard",
+    "docs:build": "vuepress build docs",
+    "docs:dev": "vuepress dev docs"
+  },
+  "dependencies": {
+    "vue": "^2.6.6",
+    "vuepress": "^0.14.9"
+  },
+  "devDependencies": {
+    "loadash": "^1.0.0",
+    "vue-cli-plugin-vuepress": "^0.1.1",
+    "vuepress": "^0.10.0"
+  },
+  "bugs": {
+    "url": "https://github.com/chancesu/chancesu.github.io/issues"
+  },
+  "homepage": "https://github.com/chancesu/chancesu.github.io#readme",
+  "keywords": [
+    "blog"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chancesu/chancesu.github.io.git"
+  }
+}
