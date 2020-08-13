@@ -1,7 +1,12 @@
 import '../styles/globals.css'
+import StoreProvider from '../Store';
 
-function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
+const Chancesu = ({ Component, pageProps }) => {
+  return (
+    <StoreProvider>
+      <Component {...pageProps} />
+    </StoreProvider>
+  )
 }
 
-export default MyApp
+export default Chancesu;

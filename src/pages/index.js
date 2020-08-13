@@ -1,7 +1,10 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
+import { useStoreAction } from '../Store'
 
 export default function Home() {
+  const ThemeModule = useStoreAction('Theme');
+  console.log(ThemeModule.state.title);
   return (
     <div className={styles.container}>
       <Head>
