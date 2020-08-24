@@ -1,4 +1,3 @@
-import '../styles/globals.css'
 import StoreProvider from '../Store';
 
 const Chancesu = ({ Component, pageProps }) => {

@@ -1,6 +1,8 @@
 const initalizeState = () => {
     return {
         title: 'Chancesu',
+        autnDrawKey : +new Date(),
+        auth : {}
     }
 }
 

@@ -1,5 +1,5 @@
 import React, { createContext, useContext } from 'react'
-import { useLocalStore } from 'mobx-react-lite';
+import { useLocalStore, observer } from 'mobx-react-lite';
 
 const moduleContexts = require.context('./', true, /^\.\/.*\/index\.js$/)
 const modules = moduleContexts.keys().map(modulePath => {
@@ -31,7 +31,9 @@ export const StoreContextProvider = ({ children }) => {
 
     return (
         <StoreContext.Provider value={store}>
+          <observer>
             {children}
+            </observer>
         </StoreContext.Provider>
     )
 }
