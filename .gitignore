@@ -17,7 +17,7 @@ jspm_packages/
 
 # Next.js build output
 .next
-public
+public/**/*
 
 # build
 out/
