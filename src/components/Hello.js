@@ -48,9 +48,33 @@ const NameLabel = styled.strong`
 
 const MainSkill = styled.span`
   display:block;
-  /* background: linear-gradient(to right, #ff842a, #ffcc33);
+  background: linear-gradient(to right, #ff842a, #ffcc33);
   -webkit-background-clip: text;
-  color:transparent; */
+  color:transparent;
+    &:after{
+      content:'Semantic Markup, SEO, Cross Browsing, Web Accesibility, Responsive Web  
+SCSS, Less, Grid, Flex layout, styled-components
+Modern Javascript, jQuery, Vue, Nuxt, Vuex, React, Next, Mobx, AngularJS
+Webpack, parcel, Bootstrap';
+      position:absolute;
+      top:30px;
+      left:0;
+      display:none;
+      height:0;
+      padding:20px;
+      background: rgba(0,0,0,.8);
+      border-radius:10px;
+      color:#fff;
+      font-size:16px;
+      transition: all 0.3s;
+    }
+  &:hover{
+    position:relative;
+    &:after{
+      display:block;
+      height:auto;
+    }
+  }
 `
 const interestingMotion = keyframes`
   20%{-webkit-transform:rotate(15deg);transform:rotate(15deg)}
@@ -139,7 +163,7 @@ const AwesomeCode = styled.span`
 const Hello = ()=>{
   return(
     <HelloArea>
-      <p>I'm <NameLabel>Sujin</NameLabel>, a front-end developer located in Korea.</p>
+      <p>Hi, I'm <NameLabel>Sujin</NameLabel>, a front-end developer located in Korea.</p>
       <p>I mainly develop web applications with <MainSkill>HTML CSS JAVASCRIPT.</MainSkill></p>
       <p>I have it <InterestingText >interesting</InterestingText> to make a awesome web applications and <span className="last-text">styling with <AwesomeCode>c<span>o</span>ding.</AwesomeCode></span></p>
     </HelloArea>

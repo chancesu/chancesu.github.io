@@ -65,7 +65,7 @@ const Header = () =>{
       <HeaderStyle>
         <div className="container">
           <SiteLogo>Chancesu</SiteLogo>
-          <UtilStyle>
+          {/* <UtilStyle>
             { !userName ?  <LoginBtn/> : null }
             { !!userName && (
               <>
@@ -73,7 +73,7 @@ const Header = () =>{
                 <ProfileStyle src={userProfile}/>
               </>
             )}
-          </UtilStyle>
+          </UtilStyle> */}
 
         </div>
       </HeaderStyle>
